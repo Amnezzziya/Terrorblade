@@ -56,3 +56,5 @@ def test_max_of_list():
     with pytest.raises(ValueError):
         max_of_list([])
 
+
+
